@@ -234,7 +234,7 @@ class Piwik_Common
 	}
 
 	/**
-	 * Store data in general (global cache)
+	 * Store data in general (global cache)..
 	 *
 	 * @param mixed  $value
 	 * @return bool
