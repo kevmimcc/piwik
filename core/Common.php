@@ -248,7 +248,7 @@ class Piwik_Common
 	}
 	
 	/**
-	 * Delete and regenerate the 'general' tracker cache.
+	 * Delete and regenerate the 'general' tracker cached.
 	 */
 	static public function regenerateCacheGeneral()
 	{
